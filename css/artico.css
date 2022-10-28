@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: blue;
+  border: 3px groove red;
+}
+article {
+  background-color: rgb(247, 237, 104);
+}

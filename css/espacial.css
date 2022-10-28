@@ -1,0 +1,17 @@
+
+h1{
+    color: red;
+    text-align: center;
+}
+.border{
+    color: blue;
+    text-align: center;
+    border: 2px solid red;
+}
+.border b{
+    background-color: yellow;
+}
+.green{
+   color: green; 
+   text-align: center;
+}
